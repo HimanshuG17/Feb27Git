@@ -1,7 +1,3 @@
 this is the second file and dfdsfsdff sfsdfsdf dfsdfsdf
-<<<<<<< HEAD
 this is new line
-
-=======
 this is my line
->>>>>>> develop
